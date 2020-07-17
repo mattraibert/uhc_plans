@@ -3,7 +3,7 @@
 # run this file on the command line to generate a csv like this:
 # $ ./README.rb
 #
-# You can find a copy at:
+# You can find the data in spreadsheet form at:
 # https://docs.google.com/spreadsheets/d/1r9aB9lklK7FgjMkHknpUJs2BUL8T6OLdDKNQvg8vyWQ/edit?usp=sharing
 #
 # Some info for you:
